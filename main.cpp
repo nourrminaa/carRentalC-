@@ -7,7 +7,6 @@
 #include <sstream>
 #include "sha256.h"
 #include <ctime>
-#include <sstream>
 
 using namespace std;
 
